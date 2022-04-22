@@ -1,2 +1,3 @@
 # COMP8325-
-AI in Cybersecurity (Python)
+Application of Artificial Intelligence in Cybersecurity (Python)
+
